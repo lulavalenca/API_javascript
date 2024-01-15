@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "nome": "Notebook",
+        "marca": "Dell",
+        "categoria": "Eletronicos",
+        "preco": 2500.00,
+        "quantidadeEstoque": 10,
+        "disponivelProntaEntrega": true
+    }, 
+    {
+        "id": 2,
+        "nome": "Smartphone",
+        "marca": "Apple",
+        "categoria":"Eletronicos",
+        "preco" : 1200.00,
+        "quantidadeEstoque": 20,
+        "disponivelProntaEntrega": true    
+    
+    },
+    {
+        "id": 3,
+        "nome": "Fone de Ouvido",
+        "marca": "Sony",
+        "categoria": "Áudio",
+        "preco": 150.00,
+        "quantidadeEstoque": 30,
+        "disponivelProntaEntrega": false
+    }
+
+]
