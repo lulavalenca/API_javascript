@@ -18,12 +18,22 @@
 
 <h3 align="left">Idiomas e ferramentas:</h3>
 <p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  </a>
   <a href="https://angular.io" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" />
   </a>
-  <!-- Add similar lines for other tools and technologies -->
+  <!-- Add similar lines for other frontend frameworks -->
 </p>
 
 <br/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lulavalenca&show_icons=true&locale=en)
+
+<br/>
+
+<!-- Stylized Publishing Activity Chart -->
+<h3 align="left">Atividade de Publicação:</h3>
+
+![Stylized Publishing Activity Chart](https://ghchart.rshah.org/0e75b6/lulavalenca)
